@@ -3,11 +3,6 @@
 Biologist & Data Science Enthusiast | Focus: Ecoacoustics, Amphibians, AI for Ecology
 
 ![Project Cover](A_title_card_for_BirdCLEF+_2025,_a_project_focused.png)
-<p align="center">
-  <img src="A_title_card_for_BirdCLEF+_2025,_a_project_focused.png" width="600"/>
-</p>
-
----
 
 ## 🌿 Project Overview
 
